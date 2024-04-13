@@ -19,9 +19,9 @@ About Me:
 👋 Hi, I’m Aramide Adetunji
 
 👀 I am a Web Developer
-with over 7yrs experience developing and deploying web applications. My skills include but not limited to Linux, AWS Services (EC2, S3, VPC, RDS, IAM, Route53, Cloudfront, Lambda, AWS Cognito, Amazon DynamoDB, API Gateway, ECS, SAM), Docker, Terraform, ReactJs, NodeJS, CI/CD tools such as Github actions, and AWS codepipeline. 
+with over 7yrs experience developing and deploying web applications. I love working with ReactJS, NextJs, NodeJs, Bash, WordPress, Terraform and AWS. Most of my projects on github will be around this technologies 
 
-🌱 I’m currently improving my DevOps skills in Jenkins, Kubernetes and releasing more AWS projects.
+🌱 I’m currently improving my Cloud/DevOps skills by studying for certifications and releasing more hands on projects.
 
 I am an AWS Certified Developer Associate
 💞️ I’m actively looking for roles in cloud/devops space.
